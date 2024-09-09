@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Abstract}{2}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{2}{section.2}%
+\contentsline {section}{\numberline {3}Motherboard Layout}{3}{section.3}%
+\contentsline {section}{\numberline {4}Main Components}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Processor}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Memory (RAM)}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Super I/O Controller}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Storage}{4}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Platform Controller Hub (PCH)}{4}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Other Integrated Circuits}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Ethernet Controller}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Audio Codec}{5}{subsection.5.2}%
+\contentsline {section}{\numberline {6}CMOS and Battery}{5}{section.6}%
+\contentsline {section}{\numberline {7}Interface Standards}{5}{section.7}%
+\contentsline {subsection}{\numberline {7.1}PCI (Peripheral Component Interconnect)}{5}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}SATA}{6}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}DMI 3.0}{6}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Functional Block Diagram}{6}{section.8}%
+\contentsline {section}{\numberline {9}I/O Components}{6}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Back Panel I/O Ports}{6}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}USB}{6}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}VGA}{6}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}DVI}{6}{subsubsection.9.1.3}%
+\contentsline {subsubsection}{\numberline {9.1.4}HDMI}{6}{subsubsection.9.1.4}%
+\contentsline {subsubsection}{\numberline {9.1.5}LAN}{6}{subsubsection.9.1.5}%
+\contentsline {subsubsection}{\numberline {9.1.6}WiFi}{6}{subsubsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.2}Internal Connectors}{6}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Connectivity Options}{6}{section.10}%
+\contentsline {section}{\numberline {11}Cooling Options}{6}{section.11}%
